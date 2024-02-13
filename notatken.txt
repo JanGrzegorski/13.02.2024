@@ -1,0 +1,8 @@
+Temat: Programowanie obiektowe w C++, wprowadzenie
+
+Programowanie zorientowane obiektowo/; OOP
+
+Obiekt - powstaje z danej instancji klasy			
+class - jest to przepis na obiekt
+Właściwości, parametry - zmienne stałe
+Metody - funkcje
