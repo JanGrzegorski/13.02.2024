@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header {
+    background-color: khaki;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  h1{
+    display: flex;
+    justify-content: center;
+    color: limegreen;
+    font-size: 50px;
+  }
+  a{
+    text-decoration: none;
+    color: firebrick;
+    font-size: 30px;
+  }
+  .all{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: auto;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+    
+}
+.Czujniki_kat_1{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: auto;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+    
+}
+.Czujniki_kat_4{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: auto;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+    
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: limegreen;
+    font-size: 50px;
+  }
+.cena_najdrozszego{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: auto;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+}
